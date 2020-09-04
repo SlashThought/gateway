@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/mitchellh/mapstructure"
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/graphql"
 	"github.com/stretchr/testify/assert"
 )
 

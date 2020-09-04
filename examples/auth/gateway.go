@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/nautilus/gateway"
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/graphql"
 	"github.com/vektah/gqlparser/v2/ast"
 )
 

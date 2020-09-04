@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/graphql"
 	"github.com/stretchr/testify/assert"
 	"github.com/vektah/gqlparser/v2/ast"
 )

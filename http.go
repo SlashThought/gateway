@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/graphql"
 )
 
 type PersistedQuerySpecification struct {
