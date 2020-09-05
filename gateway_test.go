@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/grapql"
 	"github.com/stretchr/testify/assert"
 	"github.com/vektah/gqlparser/v2/ast"
 )

@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nautilus/graphql"
+	"github.com/slashthought/grapql"
 	"github.com/stretchr/testify/assert"
 )
 
